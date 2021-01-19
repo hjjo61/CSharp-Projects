@@ -1,0 +1,13 @@
+C:\Users\youngpyo\Desktop\Joanne\BME121\Weekly6\bin\Debug\netcoreapp3.1\Weekly6.exe
+C:\Users\youngpyo\Desktop\Joanne\BME121\Weekly6\bin\Debug\netcoreapp3.1\Weekly6.deps.json
+C:\Users\youngpyo\Desktop\Joanne\BME121\Weekly6\bin\Debug\netcoreapp3.1\Weekly6.runtimeconfig.json
+C:\Users\youngpyo\Desktop\Joanne\BME121\Weekly6\bin\Debug\netcoreapp3.1\Weekly6.runtimeconfig.dev.json
+C:\Users\youngpyo\Desktop\Joanne\BME121\Weekly6\bin\Debug\netcoreapp3.1\Weekly6.dll
+C:\Users\youngpyo\Desktop\Joanne\BME121\Weekly6\bin\Debug\netcoreapp3.1\Weekly6.pdb
+C:\Users\youngpyo\Desktop\Joanne\BME121\Weekly6\obj\Debug\netcoreapp3.1\Weekly6.csprojAssemblyReference.cache
+C:\Users\youngpyo\Desktop\Joanne\BME121\Weekly6\obj\Debug\netcoreapp3.1\Weekly6.AssemblyInfoInputs.cache
+C:\Users\youngpyo\Desktop\Joanne\BME121\Weekly6\obj\Debug\netcoreapp3.1\Weekly6.AssemblyInfo.cs
+C:\Users\youngpyo\Desktop\Joanne\BME121\Weekly6\obj\Debug\netcoreapp3.1\Weekly6.csproj.CoreCompileInputs.cache
+C:\Users\youngpyo\Desktop\Joanne\BME121\Weekly6\obj\Debug\netcoreapp3.1\Weekly6.dll
+C:\Users\youngpyo\Desktop\Joanne\BME121\Weekly6\obj\Debug\netcoreapp3.1\Weekly6.pdb
+C:\Users\youngpyo\Desktop\Joanne\BME121\Weekly6\obj\Debug\netcoreapp3.1\Weekly6.genruntimeconfig.cache

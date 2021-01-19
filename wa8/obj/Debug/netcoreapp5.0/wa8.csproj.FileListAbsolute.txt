@@ -1,0 +1,16 @@
+C:\Users\jhosu\Desktop\Joanne\uni\1A\BME121\3WeeklyAssignments\wa8\bin\Debug\netcoreapp5.0\wa8.exe
+C:\Users\jhosu\Desktop\Joanne\uni\1A\BME121\3WeeklyAssignments\wa8\bin\Debug\netcoreapp5.0\wa8.deps.json
+C:\Users\jhosu\Desktop\Joanne\uni\1A\BME121\3WeeklyAssignments\wa8\bin\Debug\netcoreapp5.0\wa8.runtimeconfig.json
+C:\Users\jhosu\Desktop\Joanne\uni\1A\BME121\3WeeklyAssignments\wa8\bin\Debug\netcoreapp5.0\wa8.runtimeconfig.dev.json
+C:\Users\jhosu\Desktop\Joanne\uni\1A\BME121\3WeeklyAssignments\wa8\bin\Debug\netcoreapp5.0\wa8.dll
+C:\Users\jhosu\Desktop\Joanne\uni\1A\BME121\3WeeklyAssignments\wa8\bin\Debug\netcoreapp5.0\ref\wa8.dll
+C:\Users\jhosu\Desktop\Joanne\uni\1A\BME121\3WeeklyAssignments\wa8\bin\Debug\netcoreapp5.0\wa8.pdb
+C:\Users\jhosu\Desktop\Joanne\uni\1A\BME121\3WeeklyAssignments\wa8\obj\Debug\netcoreapp5.0\wa8.csprojAssemblyReference.cache
+C:\Users\jhosu\Desktop\Joanne\uni\1A\BME121\3WeeklyAssignments\wa8\obj\Debug\netcoreapp5.0\wa8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhosu\Desktop\Joanne\uni\1A\BME121\3WeeklyAssignments\wa8\obj\Debug\netcoreapp5.0\wa8.AssemblyInfoInputs.cache
+C:\Users\jhosu\Desktop\Joanne\uni\1A\BME121\3WeeklyAssignments\wa8\obj\Debug\netcoreapp5.0\wa8.AssemblyInfo.cs
+C:\Users\jhosu\Desktop\Joanne\uni\1A\BME121\3WeeklyAssignments\wa8\obj\Debug\netcoreapp5.0\wa8.csproj.CoreCompileInputs.cache
+C:\Users\jhosu\Desktop\Joanne\uni\1A\BME121\3WeeklyAssignments\wa8\obj\Debug\netcoreapp5.0\wa8.dll
+C:\Users\jhosu\Desktop\Joanne\uni\1A\BME121\3WeeklyAssignments\wa8\obj\Debug\netcoreapp5.0\ref\wa8.dll
+C:\Users\jhosu\Desktop\Joanne\uni\1A\BME121\3WeeklyAssignments\wa8\obj\Debug\netcoreapp5.0\wa8.pdb
+C:\Users\jhosu\Desktop\Joanne\uni\1A\BME121\3WeeklyAssignments\wa8\obj\Debug\netcoreapp5.0\wa8.genruntimeconfig.cache

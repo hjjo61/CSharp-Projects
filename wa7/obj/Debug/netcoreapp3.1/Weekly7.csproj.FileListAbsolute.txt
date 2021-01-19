@@ -1,0 +1,13 @@
+C:\Users\jhosu\Desktop\Joanne\uni\BME121\3WeeklyAssignments\wa7\obj\Debug\netcoreapp3.1\Weekly7.csprojAssemblyReference.cache
+C:\Users\jhosu\Desktop\Joanne\uni\BME121\3WeeklyAssignments\wa7\obj\Debug\netcoreapp3.1\Weekly7.AssemblyInfoInputs.cache
+C:\Users\jhosu\Desktop\Joanne\uni\BME121\3WeeklyAssignments\wa7\obj\Debug\netcoreapp3.1\Weekly7.AssemblyInfo.cs
+C:\Users\jhosu\Desktop\Joanne\uni\BME121\3WeeklyAssignments\wa7\obj\Debug\netcoreapp3.1\Weekly7.csproj.CoreCompileInputs.cache
+C:\Users\jhosu\Desktop\Joanne\uni\BME121\3WeeklyAssignments\wa7\bin\Debug\netcoreapp3.1\Weekly7.exe
+C:\Users\jhosu\Desktop\Joanne\uni\BME121\3WeeklyAssignments\wa7\bin\Debug\netcoreapp3.1\Weekly7.deps.json
+C:\Users\jhosu\Desktop\Joanne\uni\BME121\3WeeklyAssignments\wa7\bin\Debug\netcoreapp3.1\Weekly7.runtimeconfig.json
+C:\Users\jhosu\Desktop\Joanne\uni\BME121\3WeeklyAssignments\wa7\bin\Debug\netcoreapp3.1\Weekly7.runtimeconfig.dev.json
+C:\Users\jhosu\Desktop\Joanne\uni\BME121\3WeeklyAssignments\wa7\bin\Debug\netcoreapp3.1\Weekly7.dll
+C:\Users\jhosu\Desktop\Joanne\uni\BME121\3WeeklyAssignments\wa7\bin\Debug\netcoreapp3.1\Weekly7.pdb
+C:\Users\jhosu\Desktop\Joanne\uni\BME121\3WeeklyAssignments\wa7\obj\Debug\netcoreapp3.1\Weekly7.dll
+C:\Users\jhosu\Desktop\Joanne\uni\BME121\3WeeklyAssignments\wa7\obj\Debug\netcoreapp3.1\Weekly7.pdb
+C:\Users\jhosu\Desktop\Joanne\uni\BME121\3WeeklyAssignments\wa7\obj\Debug\netcoreapp3.1\Weekly7.genruntimeconfig.cache
